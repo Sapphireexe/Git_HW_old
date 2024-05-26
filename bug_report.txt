@@ -1,1 +1,12 @@
-
+Title	Происходит регистрация пользователя с паролем, не содержащим обязательных символов
+Severity	Major
+Precondition	Открыта форма регистрации на странице https://anatoly-karpovich.github.io/demo-login-form/
+STR	
+1. Ввести имя пользователя от 3 до 40 символов без пробелов
+2. Ввести пароль длиной от 8 до 20 символов (без пробелов), не содержащий букв в верхнем регистре
+3. Нажать "Register"
+Actual Result	Пользователь регистрируется с паролем, не содержащим хотя бы одну букву в верхнем регистре
+Expected Result	Отображается сообщение "Password should contain at least one character in upper case
+Environment	Huawei Matebook 14, масштабирование 125%, Windows 10 Pro
+Разрешение 1920х1080 (viewport 1536×722@125%)
+Chrome 124.0
