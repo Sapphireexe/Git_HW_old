@@ -1,2 +1,2 @@
 # Git_HW
-Homework's repository (Anatoly Karpovich)
+Git Homework's repository (Anatoly Karpovich)
