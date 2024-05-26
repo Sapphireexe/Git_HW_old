@@ -1,0 +1,7 @@
+Git
+JavaScript
+TypeScript
+Selenium
+WebdriverIO
+Cucumber
+PlayWright
